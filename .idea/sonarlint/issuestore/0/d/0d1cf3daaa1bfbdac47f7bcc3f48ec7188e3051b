@@ -1,0 +1,28 @@
+
+p
+java:S1192$"NDefine a constant instead of duplicating this literal "characterName" 4 times.(ÑÁ™”ûÿÿÿÿ8Ð®—ØÂ.
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(ò“½”ýÿÿÿÿ8Ð®—ØÂ.
+Z	java:S106i"9Replace this use of System.out or System.err by a logger.(÷Šé·úÿÿÿÿ8Ð®—ØÂ.
+U	java:S106m"9Replace this use of System.out or System.err by a logger.( ƒ”‹8Ð®—ØÂ.
+g
+java:S1192%"JDefine a constant instead of duplicating this literal "firstName" 3 times.(¨ ü«8Ð®—ØÂ.
+W
+java:S11410"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ð®—ØÂ.
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(®Ô¦úÿÿÿÿ8Ð®—ØÂ.
+T	java:S106W"9Replace this use of System.out or System.err by a logger.(çÝï+8Ð®—ØÂ.
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(¯ÊÇþÿÿÿÿÿ8Ð®—ØÂ.
+T	java:S106Y"9Replace this use of System.out or System.err by a logger.(ÍïŒ)8Ð®—ØÂ.
+T	java:S106z"9Replace this use of System.out or System.err by a logger.(½Ïµb8Ð®—ØÂ.
+T	java:S106O"9Replace this use of System.out or System.err by a logger.(¬Ó³8Ð®—ØÂ.
+U	java:S106r"9Replace this use of System.out or System.err by a logger.(»æô»8Ð®—ØÂ.
+U	java:S106a"9Replace this use of System.out or System.err by a logger.(Óõü™8Ð®—ØÂ.
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(×Åë¢üÿÿÿÿ8Ð®—ØÂ.
+f
+java:S1192%"IDefine a constant instead of duplicating this literal "lastName" 3 times.(¨ ü«8Ð®—ØÂ.
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(•º³¶8Ð®—ØÂ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²¶¡€8Ð®—ØÂ.
+e
+java:S1192%"HDefine a constant instead of duplicating this literal "creator" 4 times.(¨ ü«8Ð®—ØÂ.
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(®Ô¦úÿÿÿÿ8Ð®—ØÂ.
+v
+java:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥‚¯¡8Ð®—ØÂ.
